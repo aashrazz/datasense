@@ -9,7 +9,7 @@ from analyzer.scorer import generate_scorecard
 st.set_page_config(page_title="DataSense", page_icon="📊", layout="wide")
 
 # 2. Header Section
-st.title("📊 DataSense — Data Quality Scorecard Generator")
+st.title("DataSense: Data Quality Scorecard Generator")
 st.subheader("Upload any CSV. Get a quality score in seconds.")
 
 # 3. File Uploader
