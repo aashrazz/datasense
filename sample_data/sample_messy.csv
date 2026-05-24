@@ -1,0 +1,10 @@
+customer_id,name,email,phone,city,pincode,signup_date,last_purchase_date,age,total_spent,num_orders
+1,Amit Patel,amit@gmail.com,9876543210,Mumbai,400001,01/01/2023,2023-01-15,34,5000.50,5
+2,Priya Shah,priya.shah@yahoo.com,98765-43210,mumbai,400002,15/02/2023,2023-03-01,28,12000.00,12
+3,Rahul Gupta,rahulgmail.com,+91-9876543210,MUMBAI,400003,2023-03-10,2023-02-15,45,350.00,1
+4,Neha Singh,,987654321,Mubmai,400004,2023-04-05,2023-04-20,130,0.00,0
+5,Vikram Desai,vikram@hotmail.com,9876543210,Delhi,110001,12/05/2023,2023-05-13,0,4500.00,4
+1,Amit Patel,amit@gmail.com,9876543210,Mumbai,400001,01/01/2023,2023-01-15,34,5000.50,5
+6,Sonia K,sonia@company,9999988888,Pune,411001,2023-06-01,2023-05-20,25,8900.00,8
+7,John Doe,john@test.com,1234567890,Chennai,600001,05/10/2023,2023-11-12,,150.00,1
+8,Jane Smith,,0987654321,mumbai,400005,10/10/2023,2023-10-15,22,,
